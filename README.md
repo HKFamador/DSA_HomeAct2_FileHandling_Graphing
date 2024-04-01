@@ -5,7 +5,9 @@ This Python script contains read, write, and append filehandling and graphing us
 It evaluates a set of equations for specified values of x and plots the results. 
 
 **Input Equations**: Write your equations in a file named `equations.txt`, with each equation written on a separate line in the format `E1 = expression`,
-                      where `E1` is the equation label and `expression` is the mathematical expression involving `x`**Input Values of x**: When prompted, enter the values of x (1 to 50) separated by commas. 
+                      where `E1` is the equation label and `expression` is the mathematical expression involving `x`
+
+**Input Values of x**: When prompted, enter the values of x (1 to 50) separated by commas. 
 
 **View Results**: The script will evaluate the equations for each value of x, plot the results using Matplotlib, and save the results to a file named `results.txt`.
 
