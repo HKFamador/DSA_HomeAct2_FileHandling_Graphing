@@ -10,7 +10,7 @@ with open('equations.txt', 'r') as file:
 def evaluate_equation(x, equation):
     return eval(equation.strip().replace('x', str(x)))
 
-# Function to plot equations for specified values of x
+# Function to plot equations for specified values of x para tawagon nalang dili na ibaikbalik og code
 def plot_equations(x_values, all_results, all_eq_labels):
     plt.figure(figsize=(10, 6))
     for i, x in enumerate(x_values):
