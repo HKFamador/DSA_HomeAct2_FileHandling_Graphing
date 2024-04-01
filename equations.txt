@@ -1,0 +1,10 @@
+E1 = (x * x) + (7 * x) + 2
+E2 = (3 * x) + 2
+E3 = x * x
+E4 = x * x * x
+E5 = x * x * x * x * x
+E6 = (x * x * x) + (2 * (x * x)) + x + 10
+E7 = (x * x * x * x) - (3 * (x * x * x)) - x + 11
+E8 = math.sin(x)
+E9 = math.cos(x)
+E10 = (x * x * x * x * x) + (4 * (x * x * x * x)) + (x * x * x) - (2 * (x * x)) + 100
